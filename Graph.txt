@@ -1,0 +1,17 @@
+undirected
+7
+A
+B
+C
+D
+K
+L
+N
+A B EAST
+A D SOUTH
+B C EAST
+B K SOUTH
+D K EAST
+D L SOUTH
+L N EAST
+K N SOUTH
